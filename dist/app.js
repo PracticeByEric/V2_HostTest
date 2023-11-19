@@ -575,7 +575,8 @@ function hmrAccept(bundle /*: ParcelRequire */ , id /*: string */ ) {
 }
 
 },{}],"igcvL":[function(require,module,exports) {
-alert("Hello World");
+const parceled = true;
+alert("Hello World again");
 
 },{}]},["2ly9l","igcvL"], "igcvL", "parcelRequireded4")
 
