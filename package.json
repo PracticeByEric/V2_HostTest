@@ -7,8 +7,15 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "parcel app.js --hmr-port 50619"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+http://github.com/PracticeByEric/V2_HostTest.git"
+  },
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "http://github.com/PracticeByEric/V2_HostTest/issues"
+  },
   "dependencies": {
     "parcel": "^2.10.3"
   }
