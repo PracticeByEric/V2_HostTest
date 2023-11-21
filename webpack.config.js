@@ -2,7 +2,7 @@ const path = require("path");
 const HtmlWebpackPlugin = require('html-webpack-plugin');
 
 module.exports = {
-    entry: ["./app/index.js", "./app/index_2.js"],
+    entry: "./app/index.js",
     module:{
         rules: [{
             test: /\.svg$/,
