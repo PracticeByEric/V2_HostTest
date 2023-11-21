@@ -1,0 +1,1 @@
+{"mappings":"AAAA,yBAAyB;AAEzB,wCAAwC;AACxC,IAAI,SAAS,IAAI;AAEjB,QAAQ,GAAG,CAAC","sources":["app.js"],"sourcesContent":["// const parceled = true;\r\n\r\n// alert('Hello World again and again');\r\nvar myDate = new Date();\r\n\r\nconsole.log(myDate);"],"names":[],"version":3,"file":"index.7c0ccee6.js.map","sourceRoot":"/__parcel_source_root/"}
