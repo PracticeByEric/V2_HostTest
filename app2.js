@@ -1,1 +1,3 @@
-console.log("This is the second piece of js");
+var myDate = new Date();
+
+console.log(myDate);
